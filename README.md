@@ -13,3 +13,13 @@
    I implemented this in C doing it the slow way and then in Elixir
    using a set (well, a `MapSet`).
 1. I have a lot to learn but it's all really interesting.
+
+### Day 3
+
+1. I should probably abstract the file reading out now that I'm doing
+   that every time.
+1. The nested loop over all the coordinates with `< 1` hit for _each_
+   of the coordinates in an elf's claim was so costly. Had I not
+   otherwise been short on time I might've gone ahead and tried to
+   'write' (that is, copy) either a binary tree or linked list to use
+   as something like a set. That will probably have to happen soonish.

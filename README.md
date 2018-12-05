@@ -23,3 +23,11 @@
    otherwise been short on time I might've gone ahead and tried to
    'write' (that is, copy) either a binary tree or linked list to use
    as something like a set. That will probably have to happen soonish.
+
+### Day 4
+
+This one really killed me. The `C` got over my head _fast_ but even
+once I switched to Python it was hard for me. I just don't think I
+really conceptualized the problem well. For the next one I want to try
+to get really clear on the expected inputs and outputs before I start
+coding.

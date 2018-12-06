@@ -31,3 +31,16 @@ once I switched to Python it was hard for me. I just don't think I
 really conceptualized the problem well. For the next one I want to try
 to get really clear on the expected inputs and outputs before I start
 coding.
+
+### Day 6
+
+This one was a bit of a challenge. I think it could've been a lot
+smoother. I liked being able to write more functions. I still really
+want to figure out how to pull the file reading thing out into a
+function. And I need to get my head around things like `qsort`,
+because that is going to be better than my manual methods.
+
+1. I *really* wanted to be able to look into using Voronoi diagrams to
+   determine the edges of each region, but I don't think that would've
+   been useful for part 2, so I guess it's best I didn't spend time to
+   implement that algorithm.

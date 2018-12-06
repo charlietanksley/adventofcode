@@ -32,6 +32,14 @@ really conceptualized the problem well. For the next one I want to try
 to get really clear on the expected inputs and outputs before I start
 coding.
 
+### Day 5
+
+1. I wish I had known that there are methods for `isLower` and
+   `downcase` in the standard library.
+1. The functions that work on pointers to strings are kind of blowing
+   my mind.
+1. My memory management is really going to bite me soon.
+
 ### Day 6
 
 This one was a bit of a challenge. I think it could've been a lot
